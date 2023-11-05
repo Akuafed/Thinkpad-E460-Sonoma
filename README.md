@@ -1,5 +1,7 @@
 # Thinkpad-E460-Sonoma
 
-not working
+Not Working
+
+
 brightness 
 sleep
